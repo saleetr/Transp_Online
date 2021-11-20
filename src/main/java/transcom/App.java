@@ -2,7 +2,7 @@ package com.javatpoint;
 import javax.servlet.*;
 import java.sql.*;
 
-public class MyListener implements ServletContextListener{
+public class App implements ServletContextListener{
 
 	public void contextInitialized(ServletContextEvent arg0) {
 		
